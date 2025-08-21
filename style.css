@@ -40,6 +40,14 @@ body, button {
     list-style: none;
 }
 
+.title-content {
+    display: flex;
+}
+
+.title-content img {
+    height: 300px;
+}
+
 .title-content h1 {
     font-size: 48px;
     font-weight: 900;
