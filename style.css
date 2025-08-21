@@ -38,3 +38,7 @@ body, button {
     color: #1F2937;
     font-weight: 900;
 }
+
+.item.text {
+    color: rgb(100, 100, 100);
+}
