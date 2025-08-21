@@ -21,6 +21,11 @@ body, button {
     list-style: none;
 }
 
+.title-content h1 {
+    font-size: 48px;
+    font-weight: 900;
+}
+
 .title-content button {
     background-color: #3882F6;
     border-radius: 5px;
