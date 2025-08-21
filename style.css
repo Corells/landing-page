@@ -64,3 +64,7 @@ button {
 .action-box button {
     border-color: white;
 }
+
+.footer {
+    text-align: center;
+}
