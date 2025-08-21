@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+.header, .title-content, .footer {
+    background-color: #1F2937;
+}
+
 .header {
     font-family: "Roboto", sans-serif;
     font-size: 24px;
