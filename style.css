@@ -13,10 +13,18 @@ body, button {
 }
 
 .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     font-size: 24px;
 }
 
-.header.links, .title-content p {
+.header ul {
+    display: flex;
+    gap: 20px;
+}
+
+.header ul, .title-content p {
     font-size: 18px;
     color: #E5E7EB;
     list-style: none;
