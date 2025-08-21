@@ -60,3 +60,7 @@ button {
 .action-box, button {
     background-color: #3882F6;
 }
+
+.action-box button {
+    border-color: white;
+}
