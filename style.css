@@ -26,8 +26,7 @@ body, button {
     font-weight: 900;
 }
 
-.title-content button {
-    background-color: #3882F6;
+button {
     border-radius: 5px;
     padding: 5px 15px;
     border-color: transparent;
@@ -56,4 +55,8 @@ body, button {
 
 .quote-body h3 {
     color: #1F2937;
+}
+
+.action-box, button {
+    background-color: #3882F6;
 }
