@@ -5,6 +5,7 @@
 body, button {
     font-family: "Roboto", sans-serif;
     color: #F9FAF8;
+    margin: 0;
 }
 
 .header, .title-content, .footer {
