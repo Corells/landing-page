@@ -32,3 +32,9 @@ body, button {
     padding: 5px 15px;
     border-color: transparent;
 }
+
+.information-heading {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
