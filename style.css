@@ -64,6 +64,20 @@ button {
     color: #1F2937;
     font-weight: 900;
     text-align: center;
+    margin-bottom: 0;
+}
+
+.items {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 25px;
+}
+
+.item img {
+    border: 10px #3882F6;
+    height: 200px;
+    width: 200px;
 }
 
 .item.text {
@@ -91,6 +105,17 @@ button {
 
 .action-box button {
     border-color: white;
+}
+
+.action-box h3, .action-box p {
+    margin: 0;
+}
+
+.action-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
 }
 
 .footer {
